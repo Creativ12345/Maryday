@@ -1,6 +1,5 @@
--- Maryday V1.7 - ТП меню и скорость ходьбы (инжектор-совместимая версия)
--- Автор: @AiChatBot
--- Особенности: Всё в одном ScreenGui, только PlayerGui, простое перетаскивание, никаких Draggable=true/CoreGui
+-- Maryday V1.7
+-- Автор: @Creativ
 
 if not game:IsLoaded() then game.Loaded:Wait() end
 
